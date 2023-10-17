@@ -1,6 +1,7 @@
 # Awesome-Security-Analyst--Interview-Questions
-** Helping everyone on their Job Hunt**
-** Page is updated in a timely basis;  feel free to star the page or add some if you find some better questions**
+**Helping everyone on their Job Hunt**
+
+**Page is updated in a timely basis;  feel free to star the page or add some if you find some better questions**
 
 # **Previous Experience & Background Based Questions**
 1) Describe your previous experience as an Information Security Analyst. How have you specifically dealt with cyberattacks?
