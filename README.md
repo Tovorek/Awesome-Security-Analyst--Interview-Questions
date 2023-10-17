@@ -29,3 +29,17 @@
 23) Have you ever implemented a new security tool or technology in an organization? What challenges did you face, and how did you overcome them?
 24) What recent cybersecurity trends or emerging threats have caught your attention, and how have you prepared or advised previous employers regarding them?
 25) Can you give an example of how your work as a Security Analyst positively impacted the broader business goals of a previous employer?
+26) Have you ever dealt with an advanced persistent threat in your previous roles? What approach did you take to detect, mitigate, and prevent such threats?
+27) Describe a time when you were involved in a digital forensics investigation. What tools did you use, and what was the outcome?
+28) How do you ensure the chain of custody is maintained during forensic investigations?
+29) Describe any involvement you've had in creating or delivering security training or awareness programs for staff. How did you measure the program's success?
+30) How have you ensured the protection of sensitive data in transit and at rest in your past roles?
+31) Can you discuss your experience with any data privacy regulations (like GDPR, CCPA)? How did you ensure compliance in your previous organizations?
+32) Describe a situation where you assessed the security posture of a third-party or vendor before integration or partnership. What was your approach?
+33) Have you been involved in designing or enhancing the security architecture of an organization? What principles did you prioritize?
+34) Can you give an example of when you contributed to a business continuity or disaster recovery plan? What security considerations did you emphasize?
+35) Have you implemented or worked within a zero-trust security model? Describe the challenges and benefits you encountered.
+36) Describe any experiences you have with red team exercises or blue team defensive operations. What were the key takeaways from those experiences?
+37) How have you utilized metrics or KPIs to measure the effectiveness of security controls or initiatives? Can you give an example of a metric you found particularly useful?
+38) Are there any emerging technologies or methodologies you've recently explored to enhance security operations? Describe your experience.
+39) Describe a situation where you collaborated with different departments (like HR, Legal, or PR) during a security incident. How did you ensure cohesive and effective communication?
