@@ -43,3 +43,23 @@
 37) How have you utilized metrics or KPIs to measure the effectiveness of security controls or initiatives? Can you give an example of a metric you found particularly useful?
 38) Are there any emerging technologies or methodologies you've recently explored to enhance security operations? Describe your experience.
 39) Describe a situation where you collaborated with different departments (like HR, Legal, or PR) during a security incident. How did you ensure cohesive and effective communication?
+40) Describe your experience with Endpoint Detection and Response (EDR) tools.
+41) Can you talk about a specific threat intelligence platform you've worked with? How did it aid in your decision-making process during a potential threat?
+42) Describe a time when you fine-tuned an IDS/IPS to reduce false positives without compromising on catching genuine threats?
+43) Have you used behavioral analytics in detecting anomalies? How has it helped in identifying potential insider threats?
+44) Describe your approach to patch management. How do you prioritize which systems or applications to patch first?
+45) Give an example of when you contributed to or revised a security policy or procedure. What prompted the change?
+46) Have you been involved in the security assessment of web applications? What tools or methodologies did you use?
+47) Describe a challenging situation where you had to correlate logs from multiple sources using a SIEM solution to identify a threat?
+48) Discuss your experience with securing mobile devices in an organization.
+49) What challenges did you face and how did you address them? Have you ever implemented or improved network segmentation in an organization? What was your approach and what benefits did you observe?
+50) Describe a situation where you had to use cryptography to solve a security problem. How did you decide on the algorithms or protocols to use?
+51)  How do you ensure that every detail of a security incident is documented? Why is this important?
+52)  Discuss a time when you implemented or improved MFA in an organization. What challenges did you face?
+53)  How do you handle zero-day vulnerabilities? Can you give a specific example?
+54)  Describe a scenario where you utilized OSINT to enhance security or incident response in your organization.
+55)  Explain a time when you had to make a risk-based decision that involved accepting a certain risk rather than mitigating it. How did you communicate this to stakeholders?
+56)  Have you ever been involved in ensuring the physical security of data centers or office locations? What considerations did you emphasize?
+57)  Describe a time when you acted upon findings from a penetration test. How did you prioritize the vulnerabilities found?
+58)  Talk about a time when you had to integrate multiple security tools to improve visibility or response time.
+59)  Describe your experience with a specific regulatory compliance (e.g., PCI-DSS, HIPAA). How did you ensure continuous compliance?
