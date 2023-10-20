@@ -64,3 +64,4 @@
 58)  Talk about a time when you had to integrate multiple security tools to improve visibility or response time.
 59)  Describe your experience with a specific regulatory compliance (e.g., PCI-DSS, HIPAA). How did you ensure continuous compliance?
 60)   Describe a specific challenge you faced while securing cloud infrastructure (e.g., AWS, Azure, GCP). How did you address it, and what tools or best practices did you employ?
+61)   Can you provide an example of a situation where you had to address potential insider threats? How did you identify, manage, and mitigate the risk?
