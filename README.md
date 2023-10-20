@@ -63,3 +63,4 @@
 57)  Describe a time when you acted upon findings from a penetration test. How did you prioritize the vulnerabilities found?
 58)  Talk about a time when you had to integrate multiple security tools to improve visibility or response time.
 59)  Describe your experience with a specific regulatory compliance (e.g., PCI-DSS, HIPAA). How did you ensure continuous compliance?
+60)   Describe a specific challenge you faced while securing cloud infrastructure (e.g., AWS, Azure, GCP). How did you address it, and what tools or best practices did you employ?
