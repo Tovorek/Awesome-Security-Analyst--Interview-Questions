@@ -68,5 +68,8 @@
 62)   How did you identify, manage, and mitigate the risk? How have you contributed to promoting a culture of security awareness within an organization? Can you provide an example of an awareness campaign or initiative you've been a part of?
 
 
+# **Questions related to SIEMs**
 
-
+1) A company recently deployed a SIEM solution to centralize the logging and monitoring of its security events. Two weeks after deployment, the system is flooded with a massive number of alerts, many of which appear to be false positives.
+    a)How would you approach the process of tuning the SIEM to reduce the number of false positives without compromising on the detection of genuine threats?
+    b)Can you provide a specific example of a rule or filter you might adjust, and explain your rationale for doing so?
