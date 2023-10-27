@@ -73,3 +73,4 @@
 1) A company recently deployed a SIEM solution to centralize the logging and monitoring of its security events. Two weeks after deployment, the system is flooded with a massive number of alerts, many of which appear to be false positives.
     a)How would you approach the process of tuning the SIEM to reduce the number of false positives without compromising on the detection of genuine threats?
     b)Can you provide a specific example of a rule or filter you might adjust, and explain your rationale for doing so?
+2) "Describe a situation where you used a SIEM solution to detect and respond to a security incident. What were the initial indicators that triggered the alert, and how did you proceed with the investigation and remediation?"
