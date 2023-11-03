@@ -1,0 +1,29 @@
+# General Questions ( From 300 Interview questions for cyber security roles)
+
+1) 1. Can you name some of the emerging cyber threats?
+
+<u>Sample Answer</u>
+
+POV - 1) Some basic emerging threat 
+      2) What Methods do you use to know Keep updated about emerging threats.
+
+ans-
+# Basic emerging threats
+1) AI Enabled adversarial attacks.  - Adversasries will be more dependent on AI enabled tools to craft their exploits.
+
+2) Targeted Attacks that are enhanced by IOT devices  - This is not new thing considering stuxnet, but with a plethora of IOT devices that we depend today, it can also be categorized as an emerging threat.
+
+3) Social Engineering - It remains a constant, 2023 alone over 75% of the attacks initited with a phishing email that lead to an employee disclosing his/her credentials.
+
+4) Cloud vulnerabilities - One might think the cloud would become more secure over time, but in fact, the opposite is true: IBM reports that cloud vulnerabilities have increased 150% in the last five years. Verizon’s DBIR found that over 90% of the 29,000 breaches analyzed in the report were caused by web app breaches. 
+According to Gartner, cloud security is currently the fastest-growing cybersecurity market segment, with a 41% increase from $595 million in 2020 to $841 million in 2021.
+
+5) Third-party risk exposure - Cybercriminals can get around security systems by hacking less-protected networks belonging to third parties that have privileged access to the hacker’s primary target.
+
+
+# What Methods do you use to know Keep updated about emerging threats.
+
+1) Follow security experts - Mikko Hypponen, Brian Krebs, Jack Rhysider
+2) Read Security News, blogs and podcasts - HThe Hacker News, Krebs on Security, Dark Reading, CSO Online, and ZDNet Security, security weekly, Darknet Diaries
+3) Discuss with friends - All my friends are in the security domain.
+4) Threat intelligence feeds - FBI InfraGuard and AT&T Alien Labs Open Threat Exchange provide real-time information on emerging threats and trends. 
