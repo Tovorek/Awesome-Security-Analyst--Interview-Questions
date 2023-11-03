@@ -74,3 +74,10 @@
     a)How would you approach the process of tuning the SIEM to reduce the number of false positives without compromising on the detection of genuine threats?
     b)Can you provide a specific example of a rule or filter you might adjust, and explain your rationale for doing so?
 2) "Describe a situation where you used a SIEM solution to detect and respond to a security incident. What were the initial indicators that triggered the alert, and how did you proceed with the investigation and remediation?"
+
+
+
+
+
+# General  ( From 300 Security Questions document)
+1) 1. Can you name some of the emerging cyber threats?
