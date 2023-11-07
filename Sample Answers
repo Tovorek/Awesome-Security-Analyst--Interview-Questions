@@ -40,3 +40,16 @@ ans: There are many factors to be considered when talking about the economics of
      3) Externalities: Externalities are explained as the actions of one party that can impact people who are not part of the transactions. Example; data leaks affect users and stakeholders.
      4) Policy solutions: Policy may be used to overcome the economic barriers to cybersecurity. Liability can be assigned in the law, and pressure can be exerted on intermediaries, such as internet service providers, to improve cybersecurity.
      5) Investment decisions: If proper investment decisions for cybersecurity are not made by the board, it can badly affect the company as a whole. Vast majority of the cyberattacks taking place are unsophisticated ones, all due to lack of proper investment for cybersecurity.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3) 3. What parts of the information security should the organisations outsource?
+
+ans: It depends on various factors, like company size, budgetting restrictions,etc. The following is a list of commonly outsourced security requirements;
+
+     1)  Security Auditing & Compliance: External teams from varoius organizations help to provide objective and impartial information about the security posture of an organization. It can also include penetration testing, consulting, vulnerabiliity assessments and compliance audits.
+     2) Managed Security Services(MSS): This can include 24/7 monitoring teams like SOC, vulnerability management, Threat Intelligence, etc.
+     3) Incident Response and Digital forensics: Companied need not keep experts in this domain on their regular payroll and can outsource to deploy experts on a need basis.
+     4) Cybersecurity Awareness & Training: Companies can outsource training teams.
+     5) Security as a service (SAAS) vendors.
