@@ -84,3 +84,5 @@
 2)  Can you walk me through economics of cyber security?
 3)  What parts of the information security should the organisations outsource?
 4)  What security conferences have you participated over the past 24 months?
+5)  Can you explain some ways cyber criminals are using services like LinkedIn?
+
