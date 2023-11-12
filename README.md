@@ -87,3 +87,4 @@
 5)  Can you explain some ways cyber criminals are using services like LinkedIn?
 6)  Can you name a few leading cyber security vendors? What do they do?
 7)  What is information security and how is it achieved?
+8)  What are the core principles of information security?
