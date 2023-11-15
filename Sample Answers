@@ -81,3 +81,11 @@ Cybersecurity & Information security are different as cybersecurity applies to t
 8) What are the core principles of information security ?
 
 ans: Explain about CIA Triad.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9) What is non-repudiation (as it applies to IT security)?
+ans: 
+Non-repudiation is term used to describe the inability for a party to deny a certain event has not taken place. For example, A & B are involved in a transaction and when the transaction is over A cannot deny that such a
+transaction has not taken place.
+
+Non-repudiation, in the context of IT security, is a principle and a security measure that ensures that an individual or entity cannot deny the authenticity or origin of a message, transaction, or action they have undertaken.
