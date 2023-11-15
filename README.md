@@ -88,3 +88,4 @@
 6)  Can you name a few leading cyber security vendors? What do they do?
 7)  What is information security and how is it achieved?
 8)  What are the core principles of information security?
+9)  What is non-repudiation (as it applies to IT security)?
