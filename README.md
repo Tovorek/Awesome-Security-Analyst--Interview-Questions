@@ -89,3 +89,4 @@
 7)  What is information security and how is it achieved?
 8)  What are the core principles of information security?
 9)  What is non-repudiation (as it applies to IT security)?
+10)  As a CISO how would you justify a security spent to the board of directors?
