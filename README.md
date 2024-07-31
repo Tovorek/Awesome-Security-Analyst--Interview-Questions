@@ -75,7 +75,7 @@
     b)Can you provide a specific example of a rule or filter you might adjust, and explain your rationale for doing so?
 2) "Describe a situation where you used a SIEM solution to detect and respond to a security incident. What were the initial indicators that triggered the alert, and how did you proceed with the investigation and remediation?"
 
-
+3) Mention some ways through which a person can design a custom correlation rule to detect lateral movement within a network?
 
 
 
