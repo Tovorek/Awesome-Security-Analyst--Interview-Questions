@@ -4,17 +4,102 @@
 **Page is updated in a timely basis;  feel free to star the page or add some if you find some better questions**
 
 # **Previous Experience & Background Based Questions**
+
+---
 1) Describe your previous experience as an Information Security Analyst. How have you specifically dealt with cyberattacks?
+
+#Sample answer
+
+In my previous role as an Information Security Analyst at [Company X], I was responsible for monitoring and protecting our organization's IT infrastructure from cyber threats. My experience included implementing security measures, conducting vulnerability assessments, and responding to security incidents.
+
+One specific incident involved a sophisticated phishing attack that targeted our employees. I spearheaded the investigation by first identifying the compromised accounts and isolating them to prevent further damage. I then worked closely with the IT team to analyze the attack vectors and trace the origin of the breach. Utilizing our SIEM (Security Information and Event Management) system, I was able to correlate logs and detect the malicious activities.
+
+To mitigate the threat, I coordinated with our team to implement multi-factor authentication and conducted an organization-wide awareness training to educate employees on recognizing phishing attempts. This incident not only improved our immediate security posture but also reinforced our long-term resilience against similar attacks. My proactive approach and quick response were crucial in minimizing the impact of the attack and preventing future occurrences.
+
+In addition to incident response, I regularly performed security audits, managed firewall and IDS/IPS configurations, and stayed updated with the latest cybersecurity trends to ensure our defenses were robust and up-to-date. My hands-on experience and dedication to continuous improvement significantly contributed to maintaining a secure environment at [Company X].
+
+
+---
+
+
+
 2) What kind of startup environment did you previously work in, and how did it shape your approach to cybersecurity?
+
+#Sample answer
+
+At [Company Y], a fast-paced tech startup, I had to be adaptable and proactive in addressing cybersecurity challenges. The dynamic nature of the startup environment required me to implement agile security solutions that could scale with our growth. I focused on establishing a strong security foundation from the ground up, including deploying robust access controls, encryption standards, and regular security training for all employees. This experience taught me the importance of balancing security with business agility and the need for continuous monitoring and improvement to stay ahead of emerging threats
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 3) Can you provide an example of a significant security issue or breach you've encountered in your past role and how you addressed it?
+
+#Sample answer
+
+While working at [Company Z], we faced a ransomware attack that encrypted critical data on several servers. Upon detection, I immediately activated our incident response plan, isolating the affected systems to prevent further spread. I coordinated with our IT team to identify the ransomware variant and restore data from secure backups. Post-incident, I conducted a thorough investigation to determine the root cause and implemented stronger email filtering, user training, and regular backup protocols to prevent future occurrences. This incident emphasized the importance of preparedness and a quick, coordinated response.
+
+
+---
 4) Can you describe a significant security incident you've responded to in the past and outline the steps you took from detection to resolution?
+
+#Sample answer
+
+At [Company A], we detected unusual network activity indicative of a potential data exfiltration attempt. Upon detection, I initiated our incident response protocol, starting with isolating the affected systems. I then performed a detailed analysis using our SIEM to trace the source of the breach. After identifying the compromised endpoint, I worked with the IT team to contain and eradicate the threat. We conducted a thorough review to ensure no further vulnerabilities were present and updated our security measures accordingly. Finally, I prepared a detailed report on the incident, including the steps taken and recommendations to prevent future breaches.
+
+---
 5) What were some of the key lessons you learned from handling past security incidents?
+
+#Sample Answer
+
+Handling past security incidents at [Company B] taught me the critical importance of having a well-defined incident response plan and the value of regular training and drills. I learned that swift detection and isolation are crucial in mitigating damage. Clear communication and coordination within the team and with other departments are essential for an effective response. Additionally, post-incident analysis is vital for identifying weaknesses and implementing improvements to prevent future incidents. Continuous learning and adaptation are key in the ever-evolving field of cybersecurity.
+
+
+
+---
 6) Which SIEM platforms have you worked with, and how do you utilize them in daily security operations?
+
+#Sample Answer
+
+I have worked extensively with SIEM platforms such as Splunk and ArcSight. In daily operations, I use these platforms to monitor network traffic, analyze logs, and correlate security events across our infrastructure. They help in identifying anomalies and potential threats in real-time. I also configure custom alerts and dashboards to provide actionable insights and streamline incident response. Regular tuning and updating of the SIEM rules ensure that we adapt to emerging threats and reduce false positives, enhancing the overall efficiency of our security operations.
+
+
+---
 7) Describe a time when you had to customize or create rules in an IDS/IPS system?
+
+#Sample Answer
+
+At [Company C], we faced an increase in targeted attacks exploiting a specific application vulnerability. I customized the IDS/IPS rules to detect and block traffic patterns associated with this exploit. By analyzing attack signatures and network behavior, I created specific rules to identify malicious payloads. I then tested these rules in a controlled environment before deploying them to our live systems. This proactive approach significantly reduced the number of successful attacks and enhanced our overall security posture.
+
+---
 8) How have you previously integrated threat intelligence feeds into your security operations?
+
+#Sample Answers
+
+In my role at [Company D], I integrated threat intelligence feeds from sources such as ThreatConnect and Recorded Future into our SIEM platform. This integration allowed us to correlate external threat data with our internal logs, providing a broader context for identifying potential threats. I also configured automated alerts for indicators of compromise (IOCs) and used the threat intelligence to prioritize vulnerabilities and incidents based on the latest threat landscape. This proactive approach improved our ability to anticipate and defend against emerging threats.
+
+---
 9) Have you ever identified a potential threat or vulnerability before it became widely recognized in the industry? How did you respond?
+
+#Sample Answers
+
+While working at [Company E], I identified unusual activity in our network traffic that suggested a potential zero-day vulnerability in one of our third-party applications. I immediately reported the findings to the vendor and collaborated with them to develop a patch. In the meantime, I implemented additional monitoring and temporary mitigations to protect our systems. Once the patch was released, I ensured it was promptly deployed across all affected systems. This proactive approach prevented any significant impact on our operations and demonstrated the importance of vigilance and swift action in cybersecurity.
+
+---
 10) Can you talk about your experience with vulnerability scanning and penetration testing tools? Which ones do you prefer and why?
+
+#Sample Answers
+
+I have extensive experience with vulnerability scanning tools like Nessus and OpenVAS, as well as penetration testing tools such as Metasploit and Burp Suite. I prefer Nessus for its comprehensive vulnerability coverage and ease of use, providing detailed reports that help prioritize remediation efforts. For penetration testing, I favor Burp Suite for web application security assessments due to its powerful features for detecting and exploiting vulnerabilities. These tools, combined with regular manual testing, ensure a thorough assessment of our security posture and help in identifying and mitigating potential risks effectively.
+
+---
 11) Describe a time when you had to prioritize vulnerabilities for patching. How did you determine the order?
+
+#Sample Answers
+
+At [Company F], we conducted a comprehensive vulnerability assessment and identified multiple critical vulnerabilities. To prioritize patching, I used a risk-based approach considering factors such as the severity of the vulnerabilities, the potential impact on business operations, and the likelihood of exploitation. I also consulted threat intelligence feeds to determine if any of the vulnerabilities were actively being targeted in the wild. By creating a prioritized remediation plan, we were able to address the most critical vulnerabilities first, minimizing the risk to our organization while ensuring that our patching efforts were efficient and effective.
+
+
+---
 12) Have you been involved in drafting or updating an organization's security policy or guidelines? If so, can you provide an example?
 13) How do you ensure compliance with security policies within an organization?
 14) Describe your experience with Endpoint Detection and Response (EDR) tools. How have they been beneficial in your previous roles?
